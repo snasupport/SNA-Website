@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>About | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+     <div class="text-center">
+          <img src="img/newark.jpg" class="img-responsive" />
+      </div>
+     
+      
+      
+
+
+      <br />
+      <br />
+
+      <!-- Main Content -->
+      <div class="banner">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="banner-heading">
+                          <h3 style="color:black;font-family:serif">
+                              It’s not about us, it’s about you
+                          </h3>
+                          <p style="color:grey;font-size:15px">In today’s fast paced world, Apps and online learning are king. We all use Apps every day – it’s what we’ve gotten used to when interacting with technology . For businesses to succeed, they need software and Apps that are clean, intuitive and easy to navigate. That’s our specialty. It’s what we do best. At S&A we focus on three key areas of software technology: App development, E-learning modules and Reporting. We’ll take any business problem you have, create a customized software solution for it, and leave you with a better, more efficient business than you had before. Seriously. It’s that easy, and we’re that good. Get in touch with us – we’ll make your life easier!</p>
+                          <br />
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+       <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-sm-12">
+                  <div style="text-align:center;">
+                      <i style="padding:20px;" class="fa fa-graduation-cap fa-lg"></i>
+                      <h6>EXPERIENCE</h6>
+                      </div>
+                      <p style="font-size:15px;">We have the right experience to build the right solution for you. With more than 10 years and more than 200 successful projects completed with clients that range from Fortune 500 companies to exciting start-up organizations.</p>
+                  </div>
+              <div class="col-md-4 col-sm-12">
+                  <div style="text-align:center;">
+                      <i style="padding:20px;" class="fa fa-thumbs-up fa-lg"></i>
+                      <h6>COMMITMENT</h6>
+                      </div>
+                      <p style="font-size:15px;">Our commitment to you, our clients is simple – to deliver the best solution, on time, and within budget. Every time.</p>
+                  </div>
+              <div class="col-md-4 col-sm-12">
+                  <div style="text-align:center;">
+                      <i style="padding:20px;" class="fa fa-globe fa-lg"></i>
+                      <h6>INNOVATION HUB</h6>
+                      </div>
+                      <p style="font-size:15px;">Located in Einstein’s Alley, we have access to the brightest minds to build you the most innovative solutions.</p>
+                  </div>
+              </div>
+      </div>
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

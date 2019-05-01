@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Case Study | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+
+<body style="background-image: url('img/bg5-011.png')">
+      <!-- Navigation -->
+      <!-- Page Header -->
+      
+      <!-- Main Content -->
+     <div class="container">
+         <div class="row">
+             <div class="col-md-12 col-lg-12 col-sm-12 case">
+                 <div style="text-align:center">
+
+                     <img src="img/snalogo.png" />
+                     <br />
+                     <br />
+                     <br />
+                     <br />
+                     <h1 style="color:white">Thank You</h1>
+                     <h3 style="color:white">Thank you for reaching out to us! Your message has been sent, and a representative will contact you soon!</h3>
+                <br />
+                     <br />
+                     <a style="color:white;font-weight:bold" href="contact.stm">-Return back to Site-</a>
+                 </div>
+ 
+             </div>
+            </div>
+     </div>
+  </body>
+
+</html>
+

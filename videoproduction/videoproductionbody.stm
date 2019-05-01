@@ -1,0 +1,100 @@
+﻿     <!-- #include file = "/include_navigation.html" -->
+     <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h4 style="color:black">VALUE PRICED VIDEO PACKAGE</h4>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+      <hr />
+      <br />
+      <div class="container">
+          <div class="row" id="gaf">
+              <div class="col-sm-8">
+                  <div class="embed-responsive embed-responsive-21by9" style="height:380px">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3bpVS7GzuTI?rel=0"
+                              allowfullscreen="allowfullscreen"
+                              mozallowfullscreen="mozallowfullscreen" 
+                              msallowfullscreen="msallowfullscreen" 
+                              oallowfullscreen="oallowfullscreen" 
+                              webkitallowfullscreen="webkitallowfullscreen"></iframe>
+                  </div>
+              </div>
+              <div class="col-sm-4">
+                  <p>
+                      GAF recognized the opportunity to increase roofing sales by offering home owners the option of financing the installation of a new roof. The financing process can seem complicated. GAF turned to S&A to design a communication strategy that explained financing in an easy to understand way. S&A designed a series of short videos covering the ABC’s of financing that contractors could share with home owners.
+                  </p>
+              </div>
+          </div>
+          <br />
+          <hr />
+          <br />
+          <div class="row" id="coldwell">
+              <div class="col-sm-4">
+                  <p>
+                      Coldwell Banker Real Estate needed to inform their 10,000 agent brokers on the positive impact of smart technology on the marketability for home listings and sales.  S&A developed an interactive video that told the Coldwell Banker story on smart home technology; from its history to the latest trends and use. 
+                  </p>
+              </div>
+              <div class="col-sm-8">
+                  <div class="embed-responsive embed-responsive-21by9" style="height:380px">
+                      <iframe name="dynamicPlayerFrame" id="iframeid" src="https://cdn1.raptmedia.com/projects/yM72nbA2/embed?autoplay=true&amp;controls=overlay&amp;&amp;playsinline=1&amp;sna=3#raptor#2.1.0#dynamicPlayerFrame" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" width="720" height="405"></iframe>
+                  </div>
+              </div>
+          </div>
+          <br />
+          <hr />
+          <br />
+          <div class="row" id="merit">
+              <div class="col-sm-8">
+                  <div class="embed-responsive embed-responsive-21by9" style="height:380px">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C1h76bX50Sw?rel=0"
+                              allowfullscreen="allowfullscreen"
+                              mozallowfullscreen="mozallowfullscreen" 
+                              msallowfullscreen="msallowfullscreen" 
+                              oallowfullscreen="oallowfullscreen" 
+                              webkitallowfullscreen="webkitallowfullscreen"></iframe>
+                  </div>
+              </div>
+              <div class="col-sm-4">
+                  <p>
+                      M.E.R.I.T is a Federal Contractor that provides construction safety and security services to the Federal Government.  S&A Technologies serves as a tech provider of software solutions to M.E.R.I.T. S&A produced this video telling the story of why M.E.R.I.T. selected S&A as their tech partner. 
+                  </p>
+              </div>
+          </div>
+          <br />
+          <hr />
+          <br />
+          <div class="row" id="contact" style="text-align:center;">
+              <div class="col-sm-12">
+                  <div style="display:inline-block;text-align:left;">
+                      <span style="display:inline-block;">Your <emph>"Value Priced Video Package"</emph> includes the following:</span>
+                      <br/>
+                      <ul style="display:inline-block;">
+                          <li>Professional script</li>
+                          <li>Professional voice over & stock music</li>
+                          <li>Professional 1-day video shoot at your location</li>
+                          <li>Mobile-ready</li>
+                          <li>File format conversion for internet hosting</li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+          <br />
+          <hr />
+          <br />
+          <div class="row" id="contact" style="text-align:center;">
+              <div class="col-sm-12">
+                  <span style="display:inline-block;"><emph>For more information, contact Peter Vloyanetes, S&A Technologies, RM #406:</emph></span>
+                  <span style="display:inline-block;"><emph>973.733.2225–Office, 732.610.8519–Mobile, <a href="mailto:peterv@s5-tech.com">peterv@s5-tech.com</a></span>
+              </div>
+          </div>
+      </div>
+      <br />
+
+    <!-- #include file = "/include_footer.html" -->
+

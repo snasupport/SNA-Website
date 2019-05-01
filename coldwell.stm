@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Coldwell | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+<header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h4 style="color:black">COLDWELL BANKER</h4>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+   <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-lg-4 col-sm-12">
+                  <h2>INTERACTIVE VIDEO TRAINING PROGRAM</h2>
+                  <br />
+                  <p style="font-weight:bold"><span style="font-weight:bold">CLIENT: </span> COLDWELL BANKER REAL ESTATE</p>
+              </div>
+              <div class="col-md-8 col-lg-8 col-sm-12">
+                  <img src="img/coldwell3.jpg" />
+              </div>
+          </div>
+          <br />
+      </div>
+      <br />
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6 col-sm-12 career">
+
+                  <h6>SITUATION</h6>
+
+                  <p style="font-size:15px;">
+                      Home automation over the past 2-3 years has become a big selling feature for both the new and existing home market. Smart Home technology is increasingly important to the real estate industry, its presence in homes may result in faster home sales and added value. It is akin to what granite kitchen and bath countertops did for real estate market 12-15 years ago.
+
+                      <br />
+                      <br />
+                      S&A Technologies’ client, Coldwell Banker, decided to get into the smart home business, convinced that connected properties sell faster and that tech-savvy agents can win more business. Coldwell developed a 2-day classroom training session for their franchise sales agents that covered several topics from the “Evolution of Smart Home technology” to “How to educate prospective home buyers and sellers on the benefits of Smart Home technology.”
+                      <br />
+                      <br />
+
+                      The feedback for the classroom course was favorable, but course attendance was poor and scheduling was difficult due to the lack of qualified instructors. Hence the need to convert the existing classroom course to an electronic, online, on demand version.
+
+                  </p>
+                  <h6>REQUIREMENTS</h6>
+
+                  <p style="font-size:15px;">S&A Technologies was selected to help determine the best way to design and deliver an online version of the Coldwell Banker Smart Home classroom course. S&A had to meet the following requirements.</p>
+                  <ul>
+                      <li>Course had to be SCORM compliant.</li>
+                      <li>Specified media had to be video.</li>
+                      <li>Course had to be designed so it played across all digital platforms and browsers; desk top, tablet, smartphone, iOS and Android.</li>
+                      <li>Content had to be segmented into bites that were quickly consumed, each segment had to be between 2-4 minutes in length.</li>
+                      <li>The online course had to be designed so navigation was intuitive, giving the user the ability to move from video to video easily.</li>
+                  </ul>
+              </div>
+              <div class="col-md-6 col-sm-12 career">
+
+
+                  <h6>CHALLENGES</h6>
+
+                  <p style="font-size:15px;">The main challenges for S&A Technologies included:</p>
+                  <ul>
+                      <li>“Distill” 16 hours of classroom instruction into 25-30 minutes of video.</li>
+                      <li>Assimilate a variety of videos, existing and new content into 13-14 seamless looking videos.</li>
+                      <li>The program had to be interactive allowing the user to move from video to video without opening a separate video window.</li>
+                      <li>Incorporate pdf file documents.</li>
+                      <li>Goal was to train 5,000 real estate agents in twelve months.</li>
+                  </ul>
+                  <h6>ACTIONS</h6>
+
+                  <p style="font-size:15px;">After analyzing the project requirements S&A Technologies’ team of video specialists and instructional designers addressed the challenges presented, and performed the following actions to deliver the best results to Coldwell Banker:</p>
+                  <ul>
+                      <li>Conducted a detailed analysis of existing course materials, identifying 13 key learning topics.</li>
+                      <li>Mapped existing classroom facilitator content to corresponding 13 key learning topics.</li>
+                      <li>Created a script that used bullet points with narrative, matched the narrative to learning topics.</li>
+                      <li>Incorporated motion graphics and animation to support the instructional design objectives.</li>
+                      <li>Took a micro-learning content approach that included the following:</li>
+                  </ul>
+                  <ol>
+                      <li>Short video lengths.</li>
+                      <li>One idea per video.</li>
+                      <li>Device agnostic.</li>
+                      <li>Used only relevant content- no theory, backstories or history.</li>
+                      <li>
+                          Used an on camera spokesperson to establish video pace
+                      </li>
+                  </ol>
+                  <h6>RESULTS</h6>
+                  <ul>
+                      <li>Online interactive version of the course launched May 2017.</li>
+                      <li>2,500 sales agents took and completed the course in the first five months.</li>
+                      <li>Coldwell tracked listing results for agents who took the course versus those that didn’t. Listings increased by 20% and sales increased by 25% for agents who took the course versus agents that didn’t take the course.</li>
+                      <li>85% of sales agents who took the online interactive course rated it good to excellent.</li>
+                  </ul>
+
+
+              </div>
+          </div>
+          <br />
+      </div>
+      <br />
+
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

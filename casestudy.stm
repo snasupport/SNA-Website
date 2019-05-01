@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Case Study | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+    <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h3 style="color:black">CASE STUDY</h3>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+     <div class="container">
+         <div class="row">
+             <div class="col-md-4 col-lg-4 col-sm-12 case">
+                 <div style="text-align:center">
+                     <h3>Case Study #1</h3>
+                     <a style="color:white;padding:30px;" href="sociavi.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">View Case Study</button></a>
+
+                     <br />
+                     <br />
+
+                     <img src="img/sociavi.png" />
+                     <br />
+                 </div>
+                 <p><span style="font-weight:bold">URL: </span><a href="http://www.sociavi.com" _target="blank"> www.sociavi.com</a></p>
+                 <p><span style="font-weight:bold">Technology: </span> Android, iOS, Java, C</p>
+                 <p><span style="font-weight:bold">Contact: </span> (732) 822 - 2785</p>
+                 <p><span style="font-weight:bold">Email: </span><a href="mailto:pmuller@sociavi.com" _target="blank">pmuller@sociavi.com</a></p>
+             </div>
+             <div class="col-md-4 col-lg-4 col-sm-12 case">
+                 <div style="text-align:center">
+                     <h3>Case Study #2</h3>
+                     <a style="color:white;padding:30px;" href="hazmat.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">View Case Study</button></a>
+                     <br />
+                     <br />
+
+                     <h3>HAZMAT TRAINING SENSOR SIMULATOR</h3>
+                    <br />
+                 </div>
+                 
+                 <p><span>URL: </span><a href="http://sph.rutgers.edu" _target="blank"> http://sph.rutgers.edu</a></p>
+                 <p><span>Technology: </span> Android, AngularJS</p>
+                 <p><span>Contact: </span> (973) 733 - 2225</p>
+                 <p><span>Email: </span><a href="mailto:info@sna-tech.com" _target="blank"> info@sna-tech.com</a></p>
+
+             </div>
+             <div class="col-md-4 col-lg-4 col-sm-12 case">
+                 <div style="text-align:center">
+                     <h3>Case Study #3</h3>
+                     <a style="color:white;padding:30px;" href="coldwell.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">View Case Study</button></a>
+                     <br />
+                     <br />
+                
+                     <img src="img/coldwellbanker.png" />
+                 </div>
+                 
+             </div>
+             </div>
+         <br />
+     </div>
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

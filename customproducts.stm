@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Custom Products | S&A Technologies</title>
+   <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+     <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h4 style="color:black">WE CREATE CUSTOM PRODUCTS THAT HELP YOUR BUSINESS SUCCEED</h4>
+                          <p style="color:black;font-size:15px">S&A Technologies understands that your business needs are unique. You need customized software that fits you – and only you. We start with standard components, and then build up, based on the specific needs of your company. Our tailor-made solutions allow for integration of all your processes – front and back-end – and can get you using cloud-based software that connects all of it together!</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+    <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-sm-12">
+                  <div style="text-align:center;">
+                      <i style="padding:20px;" class="	fa fa-file-code-o fa-lg"></i>
+                      <h6>PROJECT MANAGEMENT SYSTEMS</h6>
+                      </div>
+                      <p style="font-size:15px;">Project management is part art and part science. Each organization has an individualized way of implementing these processes. We create solutions that mirror the way you operate, providing you with cost effective & unique work-flows.</p>
+                  </div>
+              <div class="col-md-4 col-sm-12">
+                  <div style="text-align:center;">
+                      <i style="padding:20px;" class="fa fa-files-o fa-lg"></i>
+                      <h6>INVENTORY MANAGEMENT SYSTEMS</h6>
+                      </div>
+                      <p style="font-size:15px;">Keeping track of things is hard. Our custom inventory management systems enable enables you to organize your company and prioritize your needs. Avoid product overstock, outages, and erase costly hours from your day. Let us build you a tool that makes tracking inventory levels, orders, sales & deliveries a breeze!</p>
+                  </div>
+              <div class="col-md-4 col-sm-12">
+                  <div style="text-align:center;">
+                      <i style="padding:20px;" class="fa fa-file-text-o fa-fw fa-lg"></i>
+                      <h6>CRM SYSTEMS</h6>
+                      </div>
+                      <p style="font-size:15px;">Our custom CRM systems can be built to take out unnecessary complexity that you find in traditional systems enabling your sales force to sell according to your unique sales goals. You want your interactions with current and future customers to be an opportunity for your business to grow.</p>
+                  </div>
+              </div>
+      </div>
+      <br />
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

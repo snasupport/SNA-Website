@@ -1,0 +1,246 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Projects | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+    <style>
+	.aligncenter{
+		text-align: center;
+	}
+	.subtitle{
+		font-weight: 600;
+	}
+	.site{
+		padding: 7px 12px!important;
+		margin-top: 6px;
+	}
+	.projectimage{
+		height: 334px;
+		/*width: 675px;*/
+	}
+	.projecttext{
+	    font-size: 14px;
+		font-family: "DIN Pro", "DIN Web", sans-serif;
+	}
+	h4{
+		font-size: 26px!important;
+	}
+	body{
+		line-height: 1.3
+	}
+	</style>
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+     <header class="masthead" style="background-image: url('img/portfoliobackgroud.JPG')">
+          <div class="overlay"></div>
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="page-heading">
+                          <h1>PORTFOLIO</h1>
+                          <!--<span class="subheading">Have questions? I have answers.</span>-->
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+<br /><br />
+      <!-- Main Content -->
+      <div class="container">
+          <div class="row">
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/coldwellwithlaptop.jpg" />
+              </div>
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>Coldwell Banker Smart Home Course </h4>
+                  <span class="subtitle">Interactive Micro-learning</span><br>
+                  <span class="projecttext">
+                      Coldwell Banker Real Estate, a leading national franchised based reality company selected S&amp;A Technologies to design and develop an interactive micro-learning
+                      program on smart home technology.  S&amp;A was responsible for interactive &amp; instructional design, scripting, talent, and studio videotaping, motion &amp; animation graphics and editing.
+                      S&amp;A employed a responsive design so the program played on all digital devices.
+                      The course was delivered to over 10,000 real estate sales person as part of their sales training.
+                  </span><br />
+                  <a target="_blank" href="coldwell.html" class="btn btn-dark site">Visit Site</a>
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>Coldwell Banker Smart Home Quiz </h4>
+                  <span class="projecttext">
+                      Accompanying the Coldwell Banker training program was a self-assessment quiz to test a learner’s smart home technology knowledge. What made the assessment
+                      unique were the use of remedial video loops.  For example, if a learner submitted an incorrect answer,
+                      they were shown the portion of the video that supported the correct answer.
+                  </span><br />
+                  <a target="_blank" href="https://coldwell-banker-quiz.sna-apps.com/#!/0" rel="noopener noreferrer" class="btn btn-dark site">Visit Site</a>
+              </div>
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/coldwell2withmobileipad.jpg" />
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/hazmatwithlaptop.jpg" />
+              </div>
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>Hazmat</h4>
+                  <span class="subtitle">Augmented Reality</span><br>
+                  <span class="projecttext">
+                      Rutgers School of Public Health had a need to improve their training on hazardous materials - Explosive, Radiation, Oxygen Depletion, etc.,
+                      and to include field simulations of hazardous incidents. They contracted with Cell Podium to develop a smartphone based HazMat Sensor Training Simulator.
+                      The project was funded by a grant from the National Institute of Environmental Health and Science, NIEHS.  All design, development and programming was done by S&amp;A Technologies.
+                      The sensor replicates real-like hazard material readings found in the field using Android, Bluetooth and iBeacon technology.
+                  </span><br />
+                  <a target="_blank" href="http://cellpodium.com/projects/project-hazmat.shtml" class="btn btn-dark site">Visit Site</a>
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>Luuva Music</h4>
+                  <span class="subtitle">Social Media</span><br>
+                  <span class="projecttext">
+                      Luuva Music came to S&amp;A Technologies with a unique idea to build a social site for musicians, creating a virtual community for singers,
+                      writers, retailers and music related businesses. As with any social site it had to scale, be easy to access, anytime anywhere, engaging and personal.
+                      A couple of key features of the site included a musician locator and upcoming gigs and performance venues.
+                      S&amp;A was responsible for UX/UI design, overall site design and architecture, plus hosting and programming.
+                  </span><br />
+                  <a target="_blank" href="http://luuvamusic.com" class="btn btn-dark site">Visit Site</a>
+              </div>
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/luuvawithmobileipad.jpg" />
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/obeyyourdocwithmobile.jpg" />
+              </div>
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>Obey Your Doctor</h4>
+                  <span class="subtitle">Mobile App</span><br>
+                  <span class="projecttext">
+                      Omar Bey, M.D., FCCP is a board certified pulmonary critical care physician.
+                      A native of New Jersey he practices medicine in Newark, working in the profession for 29 years.
+                      A newly published author, Dr. OBey’s book titled, “EAT One/Half Make Weight Loss Easy.”  S&amp;A Technologies designed and developed a “Eat One/Half”
+                      web application for smart-devises. S&amp;A was responsible for UI and UX design, programming and full development.
+                  </span><br />
+                  <a target="_blank" href="http://obeyyourdoctor.com" class="btn btn-dark site">Visit Site</a>
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>New Jersey Innovation Institute (NJII)</h4>
+                  <span class="subtitle">Website Design</span><br>
+                  <span class="projecttext">
+                      New Jersey Innovation Institute is an NJIT corporation focused on working with both businesses and government agencies
+                      on a wide range of innovative projects. NJII draws on NJIT’s academic resources to help create medical, engineering and information technology solutions.
+                      S&amp;A Technologies was selected by NJII’s management to design, build and host its website.
+                      S&amp;A was responsible for the technical requirements, UI/UX design and development.
+                  </span><br />
+                  <a target="_blank" href="http://njii.com/" class="btn btn-dark site">Visit Site</a>
+              </div>
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/njiiwithmobileipad.jpg" />
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage img-responsive" src="img/html5withlaptop.jpg" />
+              </div>
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>United States Air Force</h4>
+                  <span class="projecttext">
+                      US Air Force issued an agency wide requirement to standardize the look and feel of its online courses.
+                      The challenge they faced was that most courses had a disparate look to them depending who developed them.
+                      This caused navigation and user issues when personnel took US Air Force online courses.  Through a NJIT DoD grant,
+                      S&amp;A Technologies was selected by the USAF to design and build an open source “eLearning template,” so no matter what vendor or internal resource were employed for development,
+                      the Air Force’s courses would have a standard user interface and page familiarity.  S&amp;A designed in several types of interactivities and page design choices.
+                      The template was programed using HTML5.
+                  </span><br /><br />
+                  <a target="_blank" href="http://elearning.sna-apps.com/" class="btn btn-dark site">Visit Site</a>
+              </div>
+          </div>
+          <br /><br />
+          <div class="row">
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>GAF</h4>
+                  <span class="subtitle">Micro-Learning</span><br>
+                  <span class="projecttext">
+                      If your video content is longer than a minute, you’re not keeping up with the speed of business and might be putting your learners or target audience asleep.
+                      S&amp;A Technologies is a leading micro-learning &amp; micro-video design and development company. Micro-videos are short format videos, focused on a single topic or learning objective.
+                      Here’s an example of a micro-video, one of a series of training videos produced by S&amp;A Technologies for GAF Building Materials.  Each video focused on a specific roofing problem builders
+                      might run into when installing GAF shingles.
+                      This video covers "Nailing" problems or issues.
+                  </span><br />
+                  <a target="_blank" href="https://www.youtube.com/embed/3k54MWuvvdM?rel=0" class="btn btn-dark site">Visit Site</a>
+              </div>
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                        <div class="embed-responsive embed-responsive-21by9">
+                            <!--<video poster="img/gafcover.png"  projectimage width="600" height="334" src="videos/GAF.mov" preload controls></video>-->
+                            <iframe width="600" height="334" src="https://www.youtube.com/embed/3k54MWuvvdM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        </div>
+                    </div>
+          </div>
+	<br><br>
+		  <div class="row">
+			<div class="col-md-7 col-sm-12 col-lg-7">
+				<img class="projectimage img-responsive" src="img/loweswithlaptop.jpg"/>
+			</div>
+			<div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+			<h4>Micro-Hybrid Course</h4>
+				<span class="projecttext">Micro-Hybrid courses are another example of micro-learning.  They contain a combination of self-paced pages with learner activities and video, they might also have an assessment.  Micro-Hybrid courses are built to be responsive so they play on all devices. This example is one of a 10-part series of micro-courses developed by S&A Technologies for GAF Building materials for Lowes roofing specialist. </span>
+				<br /><br />
+				<a target="_blank" href="http://gaf.sna-apps.com/" class="btn btn-dark site">Visit Site</a>
+			</div>
+			</div>
+	<br/><br/>
+	<div class="row">
+              <div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+                  <h4>MENSSANA RESEARCH, INC.</h4>
+                  <span class="subtitle">Data Science and Technician Tools</span><br>
+                  <span class="projecttext">
+                      S&amp;A Technologies has the unique capabilities to help you take your research initiative from raw study data, through quantitative analysis, to technician-facing software utilities and end-user software products and services. We have a longstanding relationship with Menssana Research, Inc., for whom we have not only developed research technician software interfaces, but actually provided expertise in statistical modelling and first principles physical understanding of their chromatographic data collection devices.
+                  </span><br />
+                  <a target="_blank" href="http://menssanaresearch.com" class="btn btn-dark site">Visit Site</a>
+              </div>
+              <div class="col-md-7 col-sm-12 col-lg-7">
+                  <img class="projectimage" src="img/menssanawithlaptop.png" />
+              </div>
+          </div>
+		  <br /><br />
+		  <div class="row">
+			<div class="col-md-7 col-sm-12 col-lg-7 aligncenter">
+				<img class="projectimage img-responsive" src="img/tuorbitmomentswithphone.png"/>
+			</div>
+			<div class="col-md-5 col-sm-12 col-lg-5 aligncenter">
+			<h4>MOMENTS BY TUORBIT</h4>
+			<span class="subtitle">Mobile Social Network App</span><br>
+				<span class="projecttext">Let us help you design and develop your next social network iOS or Android app. Moments by TuOrbit is a new and fun mode of communicating and socializing with people around you. It is a perfect platform for businesses and event planners to stay connected with their audience with minimal effort. It is a new way to meet people around you and see what's happening nearby.</span>
+				<br /><br />
+				<a target="_blank" href="http://tuorbitmoments.com/" class="btn btn-dark site">Visit Site</a>
+			</div>
+		  </div>
+      </div>
+      <br />
+    <!-- #include file = "include_footer.html" -->
+<script>
+$('.btn-dark').on('click', function () {
+        return confirm('Are you sure you want to leave the website?');
+    });
+</script>
+</body>
+</html>
+

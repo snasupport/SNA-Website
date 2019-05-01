@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Careers | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+      <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h3 style="color:black">Software Developer</h3>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+      <div class="container">
+          <div class="row">
+              <div class="col-md-6 col-sm-12 career">
+                  <h6>Responsibilities</h6>
+                  <ul>
+
+<li>Understanding user needs, product specification, product development timelines and product requirements</li>
+					<li>Design the system architecture and outline the necessities of both hardware and software
+					details to meet the requirements of the project and its deliverables.</li>
+					<li>Responsible for testing the software ensuring there are no problems and debugging
+					programs whenever required.</li>
+					<li>Stay abreast with latest technologies and trends in order to incorporate any relevant
+					applications to the existing systems and infrastructure.</li>
+					<li>Gather business requirements, analyze and document solutions for the business problems
+					accounting for cost analysis, budgeting and inventory management.</li>
+					<li>Layout companywide system principles and ensure every new project analysis follows
+					the same.</li>
+					<li>Collaborating with Project Manager, UI/UX Developer &amp; Software Developers and
+					design business logic, business flow, develop user stories and come up with resource
+					allocation plan.</li>
+					<li>Translate Wireframes into a working application along with database design.</li>
+					<li>Coordinate with testers and engineers to prioritize bugs and enhancements list using
+					project management and but tracking tools like Jira, Confuence, etc.</li>
+					<li>Deploy the beta version of the product, gather user feedback and engage in improvising
+					and enhancing the product.</li>
+					<li>Mentor junior software developers, analysts and interns.</li>
+					<li>Strong knowledge of REST web services implementation.</li>
+					<li>Work with DevOps engineers to ensure periodic load testing against systems being used
+					across the projects.</li>
+					<li>Ability to rapidly learn new languages, frameworks, and tools.</li>
+					<li>Optimize web application to maximize speed and scale support diverse applications from
+					high power desktop computer to small footprint mobile devices.</li>
+					<li>Experience with SQL databases including the ability to manage indexes and write
+					efficient queries.</li>
+					<li>Hosting application and database on cloud servers (Amazon AWS) and configuring
+					server as per product specification.</li>
+					<li>Developing, maintaining and performing enhancement on internal framework which
+					possess, user management, JWT encryption technology, API framework with well-built
+					backend &amp; frontend for reusability.</li>
+					<li>Should have working knowledge or familiarity with technologies like NodeJs, .NET core
+					2, Scala, C#, Angular framework, React Native, WebSocket, PlayFramework, LINQ,
+					SQL Server, Mongo DB, Grunt, and Gulp.</li>
+					<li>Familiarity with version controls like SVN and Git.</li>
+                  </ul>
+              </div>
+              <div class="col-md-6 col-sm-12 career">
+                  <h6>Required Qualifications</h6>
+               
+               <li>Must be a Bachelor in computer science or similar industry.</li>
+	       <li>Have worked in similar technologies for 1+ years.</li>
+	       <li>Strong knowledge in data structure and application development.</li>    
+	       <li>Good communication skills</li>
+		<br />
+		
+ <h6>Preferred Qualifications</h6>
+               
+               <li>Master of Science in computer science.</li>
+	       <li>Demonstrated good projects in past and has a good understanding of project &nbsp &nbsp management.</li>
+              </div>
+          </div>
+		<div class="row">
+&nbsp<h5>If you are interested in the oppurtunity. Please feel free to contact us at <a href="mailto:careers@s5-tech.com">careers@s5-tech.com</a></h5>
+		</div>
+      </div>
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

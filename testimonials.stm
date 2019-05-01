@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+   <title>Testimonials | S&A Technologies</title>
+   <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+     <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h4 style="color:black">TESTIMONIAL</h4>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+      <hr />
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-4">
+
+                  <p>
+                      Menssana Research has developed a quick, painless, and safe breath test to detect a variety of diseases.
+                      A Technologies developed a big-data analytics solution for Menssana’s detection system.
+                  </p>
+
+              </div>
+              <div class="col-sm-8">
+                  <div class="embed-responsive embed-responsive-21by9">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9-5E8VH04Qg?rel=0"></iframe>
+                  </div>
+              </div>
+
+          </div>
+          <hr />
+          <div class="row">
+              <div class="col-sm-4">
+
+                  <p>
+                      M.E.R.I.T is a Federal Contractor with Synergistic- approved construction safety and security.S&A Technologies acts as a Tier Two provider of software solutions to M.E.R.I.T.
+                  </p>
+
+              </div>
+              <div class="col-sm-8">
+                  <div class="embed-responsive embed-responsive-21by9">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C1h76bX50Sw?rel=0"></iframe>
+                  </div>
+              </div>
+
+          </div>
+          <hr />
+          <div class="row">
+              <div class="col-sm-4">
+
+                  <p>
+                      Cell Podium is a communications company that looked to S&A Technologies to build and maintain its product offering.S&A managed this project from concept to completion.
+                  </p>
+
+              </div>
+              <div class="col-sm-8">
+                  <div class="embed-responsive embed-responsive-21by9">
+                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wjNdrnLrDVY?rel=0"></iframe>
+                  </div>
+              </div>
+
+          </div>
+      </div>
+      <br />
+
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

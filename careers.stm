@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Careers | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+      <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h3 style="color:black">CAREERS</h3>
+
+                          <br />
+                          <span style="color:grey">
+                              S&A needs a strong team of workers to be able to work on multiple projects at a time a be dedicated to their clients. See what positions we have available below and contact us if you are interested in joining our team.
+                          </span>
+                          <br />
+                          <br />
+                          <span style="font-size:15px;color:grey">
+                              Currently all the positions bellow have been filled.
+                          </span>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+      <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-sm-12 career">
+                  <h6>JR. SOFTWARE DEVELOPER</h6>
+                  
+                      <p><span>Description: </span> S&A Technologies is a custom application development shop and our engineers work on multiple projects simultaneously. We need software developers that are able to deliver code to specification, for multiple small to medium sized web based projects.</p>
+               
+                 
+                      <p><span>Job Requirements: </span> BS in Computer Science or equivalent of 3-5 years of software development experience. This position requires proficiency in C#, CSS, Javascript frameworks and MySQL. Familiarity with Java, No SQL or R is preferred but not required.</p>
+                 
+              </div>
+              <div class="col-md-4 col-sm-12 career">
+                  <h6>SR. SOFTWARE DEVELOPER</h6>
+               
+                      <p><span>Description: </span>The Sr. Software Developer will manage the delivery of software team projects. This individual will train and mentor Jr. Developers and is responsible for creating the development culture.</p>
+                  
+                
+                      <p><span>Job Requirements: </span>BS in Computer Science or MA in Computer Science with 6+years as a software engineer. This position requires proficiency in C#, CSS, Javascript frameworks and MySQL. Familiarity with Java, No SQL or R is preferred but not required. Individual must take pride in his/her work and is able to produce quality bug free code.</p>
+                
+              </div>
+              <div class="col-md-4 col-sm-12 career">
+                  <h6>BUSINESS ANALYST</h6>
+                
+                      <p><span>Description: </span>S&A technologies is looking for an individual who has a talent for turning fuzzy client needs into documented requirements. This position requires strong analytical and people skills.</p>
+                
+             
+                      <p><span>Job Requirements: </span>BA minimum 5 years’ experience. This individual will work directly with clients and S&A project managers to ensure the client’s specifications are documented accurately. Candidate must have experience creating business requirement documents, and technical specifications.</p>
+              
+              </div>
+              <div class="col-md-4 col-sm-12 career">
+                  <h6>SALES REPRESENTATIVE</h6>
+                
+                      <p><span>Description: </span> S&A technologies is looking to hire a skilled Sales Representative with experience selling consulting services and outsourced software. This position requires high-level knowledge of software development, and web technologies.</p>
+     
+                      <p><span>Job Requirements: </span> BA minimum 3+ years’ experience. Must be able to generate his/her own leads, pursue new clients, and meet quarterly sales goals.</p>
+              </div>
+              <div class="col-md-4 col-sm-12 career">
+                  <h6>PROJECT MANAGER</h6>
+                            <p><span>Description: </span> The Project Manager will oversee the planning, implementation, and tracking of multiple project, which have a beginning, an end and specified deliverables. This individual must have outstanding organization skills, expertise in handling difficult clients, and managing client expectations. Must be diligent in managing project to plan and on budget.</p>
+
+
+                      <p><span>Job Requirements: </span>University Degree in related subject 3+ years experience in project management for software projects.</p>
+              </div>
+          </div>
+      </div>
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

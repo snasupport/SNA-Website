@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+   <header class="masthead" style="background-image: url('img/bg5-011.png')">
+
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h2>SOFTWARE SOLUTIONS DONE RIGHT.</h2>
+
+                       
+                      </div>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-5 col-sm-12 col-lg-5 subheading">
+                      <p style="color:white">S&A Technologies specializes in custom web and mobile solutions, e-learning course development, big data analytics, project rescue, and so much more. Let us focus on your software solutions so you can focus on your business! </p>
+                  </div>
+                  <div class="col-md-7 col-sm-12 col-lg-7">
+                      <div class="embed-responsive embed-responsive-21by9">
+                          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9-5E8VH04Qg?rel=0"></iframe>
+                      </div>
+                  </div>
+              </div>
+              <br />
+              <br />
+              <div class="row">
+                  <div class="col-sm-12">
+                     <a style="color:white" href="services.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">LEARN MORE</button></a>
+
+                     <a style="color:white" href="services.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">LET'S TALK</button></a>
+
+                  </div>
+
+              </div>
+              <br />
+
+
+
+          </div>
+      </header>
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+

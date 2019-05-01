@@ -1,0 +1,125 @@
+﻿/* General Settings **************************************************************/
+body, nav, .section {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1440px; 
+    padding-top: 80px;
+}
+h1 {
+    font-size: 40px;
+    font-family: Roboto-Light, sans-serif;
+    line-height: 53px;
+}
+h2 {
+    font-size: 24px;
+    font-family: Roboto, sans-serif;
+    line-height: 32px;
+}
+h3 {
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    line-height: 24px;
+}
+.blog {
+    font-size: 18px;
+    font-family: Roboto-medium;
+    line-height: 23px;
+    display: block;
+    color: #305777
+}
+.button {
+    font-size: 14px;
+    font-family: Roboto;
+    line-height: 19px;
+}
+.footer {
+    font-size: 12px;
+    font-family: Roboto;
+    line-height: 23px;
+    padding: 20px 0px 20px 0px;
+}
+.no-margin {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.news {
+
+}
+.news:before {
+    content: '';
+    width: 75px;
+    height: 6px;
+    background: #305777;
+    position: absolute;
+    top: -4px;
+    padding:0px;
+    left:0px;
+}
+    .news:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        z-index: 100;
+        top: 0;
+        width: 6px;
+        height: 105px; /* or 100px */
+        background: #305777;
+    }
+    .news>div{
+        padding:20px;
+    }
+    .corner:before {
+        content: ' ';
+        width: 75px;
+        height: 6px;
+        background: #305777;
+        position: absolute;
+        padding: 0px;
+    }
+.corner2:before {
+    content: " ";
+    position: absolute;
+    z-index: 100;
+    width: 6px;
+    height: 105px; /* or 100px */
+    background: #305777;
+}
+
+/* Navigation ******************************************************************/
+.navbar-brand {
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.navbar-nav {
+    padding-top: 10px;
+    padding-right: 100px;
+}
+.text-light {
+    color: white;
+}
+.text-dark{
+    color: black;
+}
+.back-white {
+    background-color:white;
+}
+.back-dark {
+    background-color: #3c3f53;
+}
+.back-transparent {
+    background-color:transparent;
+}
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+
+/* Classes for Color Backgrounds *******************************************/
+.lightgray {
+    background-color: lightgray;
+}
+.header-small{
+    font-size:large;
+    font-weight:bold;
+}
+

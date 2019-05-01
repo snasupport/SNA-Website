@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Smart Home Course</title>
+    <meta name="viewport" content="width=device-width height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="https://cdn1.raptmedia.com/system/scripts/api.v2.min.js.gz"></script>
+    <script src="js/SCORM_API_wrapper.js"></script>
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+</head>
+
+<body ng-app="coldwellApp" ng-controller="MainCtrl">
+
+    <div class="wrapper">
+        <div class="responsive">
+            <div id="circle" class="circle animated fade-out"></div>
+            <div id="point" class="point animated fade-out">Click here to reveal or hide navigation menu</div>
+            <img class="menu_button hvr-glow" ng-Click="menu_button_click()" src="img/menu.png" />
+            <div class="patyu_maryu_me"></div>
+            <div id="sub_menu" class="sub_menu animated" ng-Class="{'slideInLeft':sub_menu_state,'slideOutLeft':!sub_menu_state}">
+
+                <button class="hvr-glow" ng-repeat="menu in menu_items" ng-Click="node_change($event,menu.action_node,menu.menu_text);" ng-class="indent(menu.menu_text)"><span>{{menu.menu_text}}</span></button><br />
+                <a style="display:none" href="" target="_blank" id="pdf_target">download</a>
+            </div>
+            <div>
+                <button class="quizButton disabled" style="visibility: hidden" ng-Class="{'slideInLeft':sub_menu_state,'slideOutLeft':!sub_menu_state}" id="quizButton" onclick="quiz()">Course Quiz</button>
+            </div>
+            <div id="textComplete" class="textComplete animated fade-in"><span>{{complete}}</span></div>
+
+            <!--<iframe style="position: absolute; display:block; top:0; left: 0; margin:0; padding:0; height:405px; width:720px;" class="frame" name="dynamicPlayerFrame" id="iframeid"
+                    src="https://cdn1.raptmedia.com/projects/yM72nbA2/embed?autoplay=false&controls=overlay&&playsinline=1&sna=3"
+                    scrolling="no" frameborder=0 marginheight=0 marginwidth=0
+                    webkitallowfullscreen=true mozallowfullscreen=true allowfullscreen=true>
+                Iframes are required to view this content
+            </iframe>-->
+            <iframe name="dynamicPlayerFrame" id="iframeid" src="https://cdn1.raptmedia.com/projects/yM72nbA2/embed?autoplay=false&controls=overlay&&playsinline=1&sna=3" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" name="dynamicPlayerFrame" width="720" height="405"></iframe>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var nodeCheck = {};
+
+        nodeCheck["Main Menu"] = false;
+        nodeCheck["Inside the Smart Home"] = false;
+        nodeCheck["Educating Clients About Smart Homes"] = false;
+        nodeCheck["Tutorial"] = false;
+        nodeCheck["CEDIA Sources"] = false;
+        nodeCheck["Staging Kit"] = false;
+        nodeCheck["Taking Action"] = false;
+        nodeCheck["Resources"] = false;
+        nodeCheck["Why Smart Home Technology Matters"] = false;
+        nodeCheck["History of Smart Home Technology"] = false;
+        nodeCheck["Definition of Smart Home"] = false;
+        nodeCheck["Recognizing Smart Home Categories"] = false;
+        nodeCheck["Recognizing Smart Home Technology in the Home"] = false;
+        nodeCheck["Course Summary"] = false;
+
+        $(document).ready(function () {
+            //iResize();
+            function reorient(e) {
+                var portrait = (window.orientation % 197 == 0);
+                //$("body > div").css("-webkit-transform", portrait ? "rotate(270deg)" : "");
+            }
+            window.onorientationchange = reorient;
+            window.setTimeout(reorient, 0);
+        });
+
+        var playerFrame = document.getElementById("iframeid");
+
+        playerFrame.name = "dynamicPlayerFrame";
+
+        playerFrame.onload = function () { raptor.api.launch(playerFrame.name) };
+        $("#player_container").append(playerFrame);
+        raptor.api.initByIframe(playerFrame);
+        var NodeDict;
+        raptor.api.on("inboundReady", function (event, data) {
+            //console.log("inbound commands ready");
+            NodeDict = raptor.api.nodes();
+            //iResize();
+            //console.log("Node dictionary: ", NodeDict);
+        });
+        raptor.api.on("ready", function (event, frame) {
+            raptor.api.load();
+            frame.onload = function () {
+                raptor.api.launch(frame.name);
+            }
+        });
+        var nodeFinish = false;
+        raptor.api.on("clipStart", function (event, data) {
+            $('#point').css('visibility', 'hidden');
+            $('#circle').css('visibility', 'hidden');
+            var name = raptor.api.state().name;
+
+        });
+        raptor.api.on("clipEnd", function (event, data) {
+            var name = raptor.api.state().name;
+            nodeCheck[name] = true;
+            if (name == "Main Menu") {
+
+                $('#point').css('display', 'block');
+                $('#point').css('visibility', 'visible');
+                $('#circle').css('visibility', 'visible');
+            }
+            //console.log("Node check:", nodeCheck);
+
+            if (nodeCheck["Main Menu"] &&
+                nodeCheck["Inside the Smart Home"] &&
+                nodeCheck["Educating Clients About Smart Homes"] &&
+                nodeCheck["CEDIA Sources"] &&
+                nodeCheck["Staging Kit"] &&
+                nodeCheck["Taking Action"] &&
+                nodeCheck["Resources"] &&
+                nodeCheck["Why Smart Home Technology Matters"] &&
+                nodeCheck["History of Smart Home Technology"] &&
+                nodeCheck["Definition of Smart Home"] &&
+                nodeCheck["Recognizing Smart Home Categories"] &&
+                nodeCheck["Recognizing Smart Home Technology in the Home"] && nodeCheck["Agent Testimonial 6"]) {
+                nodeFinish = true;
+
+
+            }
+            //console.log("event happened: ", event);
+            //var x = document.getElementsByClassName('center-flex');
+            //var y = x.offsetHeight;
+            //alert(y + "");
+            if (nodeFinish) {
+                $("#quizButton").removeClass("disabled");
+                //document.getElementById("quizButton").disabled = false;
+            }
+            else {
+                //document.getElementById("quizButton").disabled = true;
+            }
+
+
+        });
+        function quiz() {
+            if (nodeFinish || !($("#quizButton").hasClass("disabled"))) {
+                location.href = "courseredirect.asp?sessionid=!ldcsessionid!&amp;DCT=1&amp;courseid=4853";
+            }
+            else {
+                alert("You need to complete the course to advance to the quiz.");
+            }
+
+        };
+
+        //console.log("Nodes", raptor.api.nodes());
+
+    </script>
+</body>
+</html>

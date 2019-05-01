@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Sociavi | S&A Technologies</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta name="description" content="">
+    
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+   <header class="masthead" style="background-color:white">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <div class="site-heading">
+                          <h4 style="color:black">SOCIAVI</h4>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+      <!-- Main Content -->
+      <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-lg-4 col-sm-12">
+                  <img src="img/sociavi.png" />
+                  <br />
+                  <p style="font-weight:bold"><span style="font-weight:bold">URL: </span><a href="http://www.sociavi.com" _target="blank"> www.sociavi.com</a></p>
+                  <p style="font-weight:bold"><span style="font-weight:bold">Technology: </span> Android, iOS, Java, C</p>
+                  <p style="font-weight:bold"><span style="font-weight:bold">Contact: </span> (732) 822 - 2785</p>
+                  <p style="font-weight:bold"><span style="font-weight:bold">Email: </span><a href="mailto:pmuller@sociavi.com" _target="blank">pmuller@sociavi.com</a></p>
+
+              </div>
+              <div class="col-md-8 col-lg-8 col-sm-12">
+                  <img src="img/sociavi2.jpg" />
+              </div>
+          </div>
+          <br />
+      </div>
+      <br />
+      <div class="container">
+          <div class="row">
+              <div class="col-md-4 col-sm-12 career">
+
+                  <h6>SITUATION</h6>
+
+                  <p style="font-size:15px;">The owner had the idea to provide automated communication between elderly people in need and their relatives and support. A small staff of 3 people developed the initial product and started to successfully sell it in nursing homes. It turns out that the application and server needed expansion and more robust technologies.</p>
+                  <h6>REQUIREMENTS</h6>
+
+                  <p style="font-size:15px;">S&A Technologies was asked to bring the whole components to a more robust and scalable platform and support it for the foreseeable future.</p>
+              </div>
+              <div class="col-md-4 col-sm-12 career">
+                 
+                      
+                      <h6>CHALLENGES</h6>
+             
+                      <p style="font-size:15px;">S&A was confronted with a set of challenges that needed to be overcome.</p>
+                      <ul>
+                          <li>The existing functionality administrative and logging features.</li>
+                          <li>Converting to new technologies would break the existing application. All design and development had to be financed through current sales.</li>
+                      </ul>
+              </div>
+              <div class="col-md-4 col-sm-12 career">
+
+
+                  <h6>ACTIONS</h6>
+
+                  <p style="font-size:15px;">The first action was to understand the business model of the customer. From the business goal a series of tasks was grouped into:</p>
+                  <ul>
+                      <li>Short Term: Expand functionality and support the running application</li>
+                      <li>Medium Term: Left all components to a more robust and supportable platform</li>
+                      <li>Long Term: Propose the right technologies and development steps to have a successful business in the future</li>
+                </ul>
+              </div>
+          </div>
+          <br />
+      </div>
+      <div class="container">
+          <div class="row">
+              <h3 style="font-weight:bolder">RESULTS: THE APPLICATION IS RUNNING. EXPANSIONS AND NEW FEATURES ARE BEING ADDRESSED. THE COMPANY CAN FOCUS NOW ON SALES AND MARKETING.</h3>
+          </div>
+      </div>
+      <br />
+
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+
