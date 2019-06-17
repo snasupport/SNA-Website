@@ -20,30 +20,46 @@
               <div class="row">
                   <div class="col-lg-8 col-md-10 mx-auto">
                       <div class="site-heading">
-                          <h2>SOFTWARE SOLUTIONS DONE RIGHT.</h2>
-
-                       
+                          <h2>SOFTWARE SOLUTIONS DONE RIGHT.</h2>                      
                       </div>
                   </div>
               </div>
               <div class="row">
-                  <div class="col-md-5 col-sm-12 col-lg-5 subheading">
-                      <p style="color:white">S&A Technologies specializes in custom web and mobile solutions, e-learning course development, big data analytics, project rescue, and so much more. Let us focus on your software solutions so you can focus on your business! </p>
+                  <div class="col-md-12 col-sm-12 col-lg-12 subheading">
+                      <p style="color:white">S&A Technologies specializes in custom web and mobile solutions, E-Learning course development, big data analytics, project rescue, and so much more. Let us focus on your software solutions so you can focus on your business! </p>
                   </div>
-                  <div class="col-md-7 col-sm-12 col-lg-7">
-                      <div class="embed-responsive embed-responsive-21by9">
-                          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9-5E8VH04Qg?rel=0"></iframe>
-                      </div>
+                  <!--
+    <div class="col-md-7 col-sm-12 col-lg-7">
+        <div class="embed-responsive embed-responsive-21by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9-5E8VH04Qg?rel=0"></iframe>
+        </div>
+    </div>
+        -->
+              </div>
+              <br />
+              <div class="row" style="color:white">
+                  <div class="col-md-4 col-sm-12">
+                      <h3>App Development</h3>
+                      S&A Technologies builds web applications analyzing business problems and delvering customized solutions. Comprehensive mobile applications are developed forAndroid and IOS systems. 
+                  </div>
+                  <div class="col-md-4 col-sm-12">
+                      <h3>E-Learning</h3>
+                      Our courses are interactive, a practical approach for a broad user experience.
+                  </div>
+                  <div class="col-md-4 col-sm-12">
+                      <h3>Reporting</h3>
+                      We create business intelligence systems and enhanced reporting capabilities of both inventory and document management systems.
+
                   </div>
               </div>
               <br />
               <br />
               <div class="row">
                   <div class="col-sm-12">
-                     <a style="color:white" href="services.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">LEARN MORE</button></a>
-
-                     <a style="color:white" href="services.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">LET'S TALK</button></a>
-
+                      <a style="color:white" href="services.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">LEARN MORE</button></a>
+                      <!--
+                         <a style="color:white" href="services.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">LET'S TALK</button></a>
+                        -->
                   </div>
 
               </div>
