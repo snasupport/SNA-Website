@@ -19,14 +19,16 @@
           <div class="container">
               <div class="row">
                   <div class="col-lg-8 col-md-10 mx-auto">
-                      <div class="site-heading">
+                      <div class="site-heading" style="padding-bottom:50px;padding-top:80px;">
                           <h2>SOFTWARE SOLUTIONS DONE RIGHT.</h2>                      
                       </div>
                   </div>
               </div>
               <div class="row">
                   <div class="col-md-12 col-sm-12 col-lg-12 subheading">
-                      <p style="color:white">S&A Technologies specializes in custom web and mobile solutions, E-Learning course development, big data analytics, project rescue, and so much more. Let us focus on your software solutions so you can focus on your business! </p>
+                      <p style="color:white">
+                      S&amp;A Technologies is a leading provider of software solutions for both big and small businesses. We deliver outstanding services customized to our clients’ business needs and preferences. Our services let the clients focus on their core business and that way pave the road to their success.
+                      </p>
                   </div>
                   <!--
     <div class="col-md-7 col-sm-12 col-lg-7">
@@ -40,16 +42,15 @@
               <div class="row" style="color:white">
                   <div class="col-md-4 col-sm-12">
                       <h3>App Development</h3>
-                      S&A Technologies builds web applications analyzing business problems and delvering customized solutions. Comprehensive mobile applications are developed forAndroid and IOS systems. 
+                      We build web applications that implement business processes and deliver customized solutions. Our structured approach covers all phases of the software development cycle from gathering business requirements to user acceptance test. Over many years we gathered all the necessary experience to make every project successful.
                   </div>
                   <div class="col-md-4 col-sm-12">
                       <h3>E-Learning</h3>
-                      Our courses are interactive, a practical approach for a broad user experience.
+                      S&amp;A Technologies develops interactive E-Learning courses from script writing to development to hosting. That includes video production as well. Training can be delivered to either large monitors or mobile devices. We have the knowledge of instructional design to convert your material into compelling course work.
                   </div>
                   <div class="col-md-4 col-sm-12">
                       <h3>Reporting</h3>
-                      We create business intelligence systems and enhanced reporting capabilities of both inventory and document management systems.
-
+                      Our reporting development helps our customers to make tactical and strategic business decisions. We directly access the customers’ data bases, be it an AS400 or a web-based ERP system. Then we create detailed and actionable reports for inventory management, sales and distribution including pricing and production scheduling.
                   </div>
               </div>
               <br />

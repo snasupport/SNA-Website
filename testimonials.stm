@@ -14,12 +14,12 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-     <header class="masthead" style="background-color:white">
+     <header class="masthead" style="background-color:indigo">
           <div class="container">
               <div class="row">
                   <div class="col-lg-8 col-md-10 mx-auto">
-                      <div class="site-heading">
-                          <h4 style="color:black">TESTIMONIAL</h4>
+                      <div class="page-heading">
+                          <h1 style="color:white">TESTIMONIAL</h1>
                       </div>
                   </div>
               </div>
@@ -33,7 +33,7 @@
 
                   <p>
                       Menssana Research has developed a quick, painless, and safe breath test to detect a variety of diseases.
-                      A Technologies developed a big-data analytics solution for Menssana’s detection system.
+                      S&A Technologies developed a big-data analytics solution for Menssana’s detection system.
                   </p>
 
               </div>
@@ -47,11 +47,9 @@
           <hr />
           <div class="row">
               <div class="col-sm-4">
-
                   <p>
-                      M.E.R.I.T is a Federal Contractor with Synergistic- approved construction safety and security.S&A Technologies acts as a Tier Two provider of software solutions to M.E.R.I.T.
+                      M.E.R.I.T is a Federal Contractor with Synergistic- approved construction safety and security. S&A Technologies acts as a Tier Two provider of software solutions to M.E.R.I.T.
                   </p>
-
               </div>
               <div class="col-sm-8">
                   <div class="embed-responsive embed-responsive-21by9">
@@ -65,7 +63,8 @@
               <div class="col-sm-4">
 
                   <p>
-                      Cell Podium is a communications company that looked to S&A Technologies to build and maintain its product offering.S&A managed this project from concept to completion.
+                      Cell Podium, a leading digital solutions provider, shows its exceptional expertise in the development of products for emergency situations and safety. 
+                      The company connected with S&A Technologies to get its product offerings built and maintained. 
                   </p>
 
               </div>

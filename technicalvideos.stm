@@ -14,12 +14,12 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-     <header class="masthead" style="background-color:white">
+     <header class="masthead" style="background-color:goldenrod">
           <div class="container">
               <div class="row">
                   <div class="col-lg-8 col-md-10 mx-auto">
                       <div class="site-heading">
-                          <h4 style="color:black">VIDEOS</h4>
+                          <h1 style="color:black;font-size:36">VIDEOS</h1>
                       </div>
                   </div>
               </div>
@@ -32,7 +32,8 @@
               <div class="col-sm-6">
 
                   <p>
-                      Coldwell Banker Real Estate, a leading national franchised based real estate company selected S&A Technologies to design and develop an interactive video training program on smart home technology. S&A was responsible for interactive & instructional design, scripting, talent, motion & animation graphics and editing. Certain video segments of the Coldwell video were shot in S&A’s video production studios.  Here are two videos produced for Coldwell, the first titled “Recognizing Smart Home” is a product introduction video covering smart home products, the second titled “Inside a Smart Home,” is a sales training video on how to sell homeowners on smart home technology.  Both videos were designed to be responsive to play on all digital devices. 
+                      Coldwell Banker Real Estate, a leading national franchised based real estate company selected S&A Technologies to design and develop an interactive video training program on smart home technology. 
+                      S&A was responsible for interactive & instructional design, scripting, talent, motion & animation graphics and editing. Certain video segments of the Coldwell video were shot in S&A’s video production studios.  Here are two videos produced for Coldwell, the first titled “Recognizing Smart Home” is a product introduction video covering smart home products, the second titled “Inside a Smart Home,” is a sales training video on how to sell homeowners on smart home technology.  Both videos were designed to be responsive to play on all digital devices. 
                   </p>
 
               </div>
@@ -40,8 +41,8 @@
                   <div class="embed-responsive embed-responsive-21by9">
                       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u0dKqbPx43Q?rel=0"></iframe>
                   </div>
-<br />
-<div class="embed-responsive embed-responsive-21by9">
+                    <br />
+                    <div class="embed-responsive embed-responsive-21by9">
                       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uA6NT0__hfE?rel=0"></iframe>
                   </div>
               </div>
@@ -52,7 +53,12 @@
               <div class="col-sm-6">
 
                   <p>
-                      S&A Technologies is a full service video production, with experience in all production steps; from script to screen. Its expertise includes the design and production of micro-videos. Micro-videos are short format videos, focused on a single topic. Here’s an example of a micro-video, one of a series of training videos produced by S&A Technologies for GAF Building Materials. Each video focused on a specific roofing problem builders might run into when installing GAF shingles. This video covers "low-slope” roof installation problems or issues.
+                      S&A Technologies is a full service video production, with experience in all production steps; from script to screen. 
+                      Its expertise includes the design and production of micro-videos. 
+                      Micro-videos are short format videos, focused on a single topic. 
+                      Here’s an example of a micro-video, one of a series of training videos produced by S&A Technologies for GAF Building Materials. 
+                      Each video focused on a specific roofing problem builders might run into when installing GAF shingles. 
+                      This video covers "low-slope” roof installation problems or issues.
                   </p>
 
               </div>
