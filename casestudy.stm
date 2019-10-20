@@ -14,17 +14,9 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-    <header class="masthead" style="background-color:white">
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-8 col-md-10 mx-auto">
-                      <div class="site-heading">
-                          <h3 style="color:black">CASE STUDIES</h3>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </header>
+    <header class="masthead" style="background-image: url('img/portfolio4.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">CASE STUDIES</h1>
+    </header>
       <!-- Main Content -->
      <div class="container">
          <div class="row">

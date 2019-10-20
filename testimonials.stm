@@ -1,82 +1,75 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<link rel="shortcut icon" href="img/snalogo.png" />
-   <title>Testimonials | S&A Technologies</title>
-   <meta charset="utf-8">
-    
+    <link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Testimonials | S&A Technologies</title>
+    <meta charset="utf-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <meta name="description" content="">
-    
+
     <meta name="author" content="">
     <!-- #include file = "include_scripts.html" -->
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-     <header class="masthead" style="background-color:indigo">
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-8 col-md-10 mx-auto">
-                      <div class="page-heading">
-                          <h1 style="color:white">TESTIMONIAL</h1>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </header>
-      <!-- Main Content -->
-      <hr />
-      <div class="container">
-          <div class="row">
-              <div class="col-sm-4">
 
-                  <p>
-                      Menssana Research has developed a quick, painless, and safe breath test to detect a variety of diseases.
-                      S&A Technologies developed a big-data analytics solution for Menssana’s detection system.
-                  </p>
+    <header class="masthead" style="background-image: url('img/portfolio2.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">TESTIMONIAL</h1>
+    </header>
+    <!-- Main Content -->
+    <hr />
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
 
-              </div>
-              <div class="col-sm-8">
-                  <div class="embed-responsive embed-responsive-21by9">
-                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9-5E8VH04Qg?rel=0"></iframe>
-                  </div>
-              </div>
+                <p>
+                    Menssana Research has developed new advanced breath tests for detection of various diseases. Quick and safe, these tests help finding some types of cancer, especially lung and breast cancer, in their early stages.  S&A Technologies provided a big-data analytics solution for Menssana’s disease detection system.
+                </p>
 
-          </div>
-          <hr />
-          <div class="row">
-              <div class="col-sm-4">
-                  <p>
-                      M.E.R.I.T is a Federal Contractor with Synergistic- approved construction safety and security. S&A Technologies acts as a Tier Two provider of software solutions to M.E.R.I.T.
-                  </p>
-              </div>
-              <div class="col-sm-8">
-                  <div class="embed-responsive embed-responsive-21by9">
-                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C1h76bX50Sw?rel=0"></iframe>
-                  </div>
-              </div>
+            </div>
+            <div class="col-sm-8">
+                <div class="embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9-5E8VH04Qg?rel=0"></iframe>
+                </div>
+            </div>
 
-          </div>
-          <hr />
-          <div class="row">
-              <div class="col-sm-4">
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-sm-4">
+                <p>
+                    M.E.R.I.T., Inc. provides services in construction planning and management. The company, a Federal Contractor, is specialized in construction, safety and security. S&A Technologies acts as a Tier 2 provider of software solutions to M.E.R.I.T., Inc.
+                </p>
+            </div>
+            <div class="col-sm-8">
+                <div class="embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C1h76bX50Sw?rel=0"></iframe>
+                </div>
+            </div>
 
-                  <p>
-                      Cell Podium, a leading digital solutions provider, shows its exceptional expertise in the development of products for emergency situations and safety. 
-                      The company connected with S&A Technologies to get its product offerings built and maintained. 
-                  </p>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-sm-4">
 
-              </div>
-              <div class="col-sm-8">
-                  <div class="embed-responsive embed-responsive-21by9">
-                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wjNdrnLrDVY?rel=0"></iframe>
-                  </div>
-              </div>
+                <p>
+                    Cell Podium, a leading digital solutions provider, shows its exceptional expertise
+                    in the development of products for emergency situations and safety.
+                    The company connected with S&A Technologies to get its product offerings built and maintained.
+                </p>
 
-          </div>
-      </div>
-      <br />
+            </div>
+            <div class="col-sm-8">
+                <div class="embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wjNdrnLrDVY?rel=0"></iframe>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br />
 
     <!-- #include file = "include_footer.html" -->
 </body>

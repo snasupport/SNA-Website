@@ -40,24 +40,22 @@
 
                 <h6>SITUATION</h6>
                 <p style="font-size:15px;">
-                    Sociavi’s owner approached S&A Technologies with an idea for an automated communication system between elderly people in need and their caregivers/support.
-                    The S&A Technologies team developed the initial system allowing Sociavi to successfully sell it to both private clients and institutions.
-                    However, soon it turned out that the application needed an expansion and updated more robust technologies.
+                    Sociavi’s owner came up with an idea for an automated communication system between elderly people in need and their caregivers and support. The S&A Technologies team developed the initial communication system allowing Sociavi to successfully sell it to both private clients and institutions. Soon it turned out that the new application and server needed an expansion and updated robust technologies.
                 </p>
 
                 <h6>REQUIREMENTS</h6>
                 <p style="font-size:15px;">
-                    S&A Technologies was asked to convert the main components to a more robust and scalable platform and support it for the foreseeable future.
+                    S&A Technologies was asked to move all software components to a more robust and scalable platform, and support this platform for the foreseeable future.
                 </p>
             </div>
             <div class="col-md-4 col-sm-12 career">
 
 
                 <h6>CHALLENGES</h6>
-                <p style="font-size:15px;">S&A was confronted with a set of challenges that needed to be overcome.</p>
+                <p style="font-size:15px;">S&A Technologies was confronted with a set of challenges:</p>
                 <ul>
-                    <li>The existing functionality administrative and logging features.</li>
-                    <li>Converting to new technologies would break the existing application. </li>
+                    <li>The existing administrative and login features were intermittently failing.</li>
+                    <li>Any implementation of new technologies would break the existing application.</li>
                     <li>Both design and development had to be financed through current sales.</li>
                 </ul>
             </div>
@@ -65,13 +63,13 @@
 
                 <h6>ACTIONS</h6>
                 <p style="font-size:15px;">
-                    We started our project by re-examining the client’s business model and finding out the company’s business goals.
-                    Based on the new model, a series of tasks were established:
+                    We started our project by getting an overview of the client’s business model and finding out the company’s business goals. From there, a series of tasks was divided into the following short, medium and long term categories:
+
                 </p>
                 <ul>
                     <li>Short Term: Expand functionality and support the running application</li>
-                    <li>Medium Term: Convert all components to a more robust and supportable platform</li>
-                    <li>Long Term: Propose the right technologies and development steps to have a successful business in the future</li>
+                    <li>Medium Term: Move all components to a more robust and supportable platform</li>
+                    <li>•	Long Term: Propose the right technologies and development steps towards an eventually successful business</li>
                 </ul>
             </div>
         </div>
@@ -80,9 +78,7 @@
     <div class="container">
         <div class="row">
             <h3 style="font-weight:bolder">
-                The Result: S&Aacute; Technoogies has developed a fully functional prototypebeing used in classes at Rutgers' School of Public Health.
-
-                RESULTS: THE APPLICATION IS RUNNING. EXPANSIONS AND NEW FEATURES ARE BEING ADDRESSED. THE COMPANY CAN FOCUS NOW ON SALES AND MARKETING.
+                Result: The application is running to the fullest satisfaction of “Sociavi”. Expansions and new features have perfectly been implemented. The company can stay focused on its sales and marketing.
             </h3>
         </div>
     </div>

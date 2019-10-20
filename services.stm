@@ -14,21 +14,19 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-     <header class="masthead" style="background-color:white">
-          <div class="container">
+    <header class="masthead" style="background-image: url('img/portfolio3.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">SERVICES</h1>
+    </header>
+          <div class="container" style="margin-top:50px">
               <div class="row">
                   <div class="col-lg-8 col-md-10 mx-auto">
                       <div class="site-heading">
-                          <h3 style="color:black">SERVICES</h3>
-
-                          <br />
                           <span style="color:black" class="subheading">NEED AN APPLICATION OR SOFTWARE TO IMPROVE YOUR BUSINESS?</span>
                           <span style="color:black" class="subheading">Let S&A make your idea a reality.</span>
                       </div>
                   </div>
               </div>
           </div>
-      </header>
       <!-- Main Content -->
      <div class="container">
           <div class="row">

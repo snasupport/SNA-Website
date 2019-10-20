@@ -48,7 +48,7 @@
 <body>
     <!-- #include file = "include_navigation.html" -->
 
-    <header class="masthead" style="background-image: url('img/portfoliobackgroud.JPG');height:100px;margin-top:70px;">
+    <header class="masthead" style="background-image: url('img/portfolio1.JPG');height:100px;margin-top:70px;">
         <h1 style="text-align:center;color:white;padding-top:30px;">PORTFOLIO</h1>
     </header>
 

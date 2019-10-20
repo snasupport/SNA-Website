@@ -14,17 +14,20 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-      <header class="masthead" style="background-color:white">
-          <div class="container">
+    <header class="masthead" style="background-image: url('img/portfolio4.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">CAREERS</h1>
+    </header>
+
+          <div class="container" style="margin-top:50px">
               <div class="row">
                   <div class="col-lg-8 col-md-10 mx-auto">
                       <div class="site-heading">
-                          <h3 style="color:black">CAREERS</h3>
+                          <h3>
+                              Join our team
+                              and start your future now
 
-                          <br />
-                          <span style="color:grey">
-                              S&A needs a strong team of workers to be able to work on multiple projects at a time a be dedicated to their clients. See what positions we have available below and contact us if you are interested in joining our team.
-                          </span>
+                          </h3>
+                          We are an innovative and forward-thinking team of software engineers, taking advantage of everyone’s individual expertise and experience. Join us and get your 	next great opportunity for career growth
                           <br />
                           <br />
                           <span style="font-size:15px;color:grey">
@@ -34,7 +37,6 @@
                   </div>
               </div>
           </div>
-      </header>
       <!-- Main Content -->
       <div class="container">
           <div class="row">

@@ -1,77 +1,63 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<link rel="shortcut icon" href="img/snalogo.png" />
-   <title>Technical Videos | S&A Technologies</title>
+    <link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Technical Videos | S&A Technologies</title>
     <meta charset="utf-8">
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <meta name="description" content="">
-    
+
     <meta name="author" content="">
     <!-- #include file = "include_scripts.html" -->
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-     <header class="masthead" style="background-color:goldenrod">
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-8 col-md-10 mx-auto">
-                      <div class="site-heading">
-                          <h1 style="color:black;font-size:36">VIDEOS</h1>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </header>
-      <!-- Main Content -->
-      <hr />
-      <div class="container">
-          <div class="row">
-              <div class="col-sm-6">
+    <header class="masthead" style="background-image: url('img/portfolio3.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">VIDEOS</h1>
+    </header>
+    <!-- Main Content -->
+    <hr />
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
 
-                  <p>
-                      Coldwell Banker Real Estate, a leading national franchised based real estate company selected S&A Technologies to design and develop an interactive video training program on smart home technology. 
-                      S&A was responsible for interactive & instructional design, scripting, talent, motion & animation graphics and editing. Certain video segments of the Coldwell video were shot in S&A’s video production studios.  Here are two videos produced for Coldwell, the first titled “Recognizing Smart Home” is a product introduction video covering smart home products, the second titled “Inside a Smart Home,” is a sales training video on how to sell homeowners on smart home technology.  Both videos were designed to be responsive to play on all digital devices. 
-                  </p>
+                <p>
+                    Coldwell Banker Real Estate, a leading national franchise based real estate company, selected S&A Technologies to design and develop an interactive video training program on smart home technology. We were responsible for interactive & instructional design, script writing, talent, motion & animation graphics and editing. Certain video segments of this Coldwell Banker video were shot in S&A Technologies’ own video production studios. Here you can watch two videos produced for Coldwell Banker, the first one titled “Recognizing Smart Home” is an introduction video about smart home products; the second video titled “Inside a Smart Home,” is a sales training on how to sell real estates via smart home technology. Both videos have been given a responsive web design for all digital devices.
+                </p>
 
-              </div>
-              <div class="col-sm-6">
-                  <div class="embed-responsive embed-responsive-21by9">
-                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u0dKqbPx43Q?rel=0"></iframe>
-                  </div>
-                    <br />
-                    <div class="embed-responsive embed-responsive-21by9">
-                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uA6NT0__hfE?rel=0"></iframe>
-                  </div>
-              </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u0dKqbPx43Q?rel=0"></iframe>
+                </div>
+                <br />
+                <div class="embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uA6NT0__hfE?rel=0"></iframe>
+                </div>
+            </div>
 
-          </div>
-          <hr />
-          <div class="row">
-              <div class="col-sm-6">
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-sm-6">
 
-                  <p>
-                      S&A Technologies is a full service video production, with experience in all production steps; from script to screen. 
-                      Its expertise includes the design and production of micro-videos. 
-                      Micro-videos are short format videos, focused on a single topic. 
-                      Here’s an example of a micro-video, one of a series of training videos produced by S&A Technologies for GAF Building Materials. 
-                      Each video focused on a specific roofing problem builders might run into when installing GAF shingles. 
-                      This video covers "low-slope” roof installation problems or issues.
-                  </p>
+                <p>
+                    S&A Technologies is a full-service video production company, with long-time experience in all production steps from script to screen. The term “video” reflects both videos of regular length and micro-videos (short formal videos, focused on one single topic). Here you can see an example of a micro-video, one of a series of training videos produced by S&A Technologies for GAF Building Materials. Each video in this series focuses on a specific roofing problem, builders might run into when installing GAF shingles. The present video covers "low-slope” roof installation problems or issues.
+                </p>
 
-              </div>
-              <div class="col-sm-6">
-                  <div class="embed-responsive embed-responsive-21by9">
-                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCfY8jPbUEs?rel=0"></iframe>
-                  </div>
-              </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCfY8jPbUEs?rel=0"></iframe>
+                </div>
+            </div>
 
-          </div>
-          <hr />
-      </div>
-      <br />
+        </div>
+        <hr />
+    </div>
+    <br />
     <!-- #include file = "include_footer.html" -->
 </body>
 </html>
