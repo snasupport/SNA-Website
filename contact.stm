@@ -16,11 +16,9 @@
             <div class="row">
                 <div class="col-lg-8 col-md-10 mx-auto">
                     <div class="site-heading">
-                        <h3 style="color:white;font-weight:bold">LET'S MAKE SOMETHING AWESOME TOGETHER</h3>
                         <br />
                         <span style="color:white;font-weight:bold" class="subheading">NEED AN APPLICATION OR SOFTWARE TO IMPROVE YOUR BUSINESS?</span>
                         <br />
-                        <span style="color:white;font-weight:bold" class="subheading">Let S&A make your idea a reality.</span>
                     </div>
                 </div>
             </div>
@@ -43,14 +41,14 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="form_name">Name *</label>
-                                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
+                                    <input id="form_name" type="text" name="name" class="form-control" placeholder="" required="required" data-error="Firstname is required.">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group" hidden>
                                     <label for="form_lastname">Lastname *</label>
-                                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
+                                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="" required="required" data-error="Lastname is required.">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
@@ -59,14 +57,14 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="form_email">Email *</label>
-                                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
+                                    <input id="form_email" type="email" name="email" class="form-control" placeholder="" required="required" data-error="Valid email is required.">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="form_phone">Phone</label>
-                                    <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone">
+                                    <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="">
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
@@ -75,12 +73,12 @@
                             <div class="col-md-12">
                                 <div class="form-group">
                                     <label for="form_message">Message *</label>
-                                    <textarea id="form_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please,leave us a message."></textarea>
+                                    <textarea id="form_message" name="message" class="form-control" placeholder="" rows="4" required="required" data-error="Please,leave us a message."></textarea>
                                     <div class="help-block with-errors"></div>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <input id="submit" type="submit" class="btn btn-success btn-send" value="Send message">
+                                <input id="submit" type="submit" class="btn btn-success btn-send" value="Send">
                             </div>
                         </div>
                         <br />
@@ -94,7 +92,7 @@
 
             <div class="col-md-4 col-sm-12">
                 <p>
-                    S&A Technologies is located next to the New Jersey Institute of Technology, in the VentureLink community hub for technology companies. Send us a message or use the contact details below to connect and to get more information about our projects and services.
+                    S&A Technologies is located next to the New Jersey Institute of Technology, in the VentureLink community hub for technology companies. Send us a message or use the contact details below to connect and get more information about our projects and services.
                 </p>
                 <h5>Contact Details</h5>
                 <p>

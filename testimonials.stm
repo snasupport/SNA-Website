@@ -16,7 +16,7 @@
     <!-- #include file = "include_navigation.html" -->
 
     <header class="masthead" style="background-image: url('img/portfolio2.JPG');height:100px;margin-top:70px;">
-        <h1 style="text-align:center;color:white;padding-top:30px;">TESTIMONIAL</h1>
+        <h1 style="text-align:center;color:white;padding-top:30px;">TESTIMONIALS</h1>
     </header>
     <!-- Main Content -->
     <hr />
@@ -40,7 +40,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <p>
-                    M.E.R.I.T., Inc. provides services in construction planning and management. The company, a Federal Contractor, is specialized in construction, safety and security. S&A Technologies acts as a Tier 2 provider of software solutions to M.E.R.I.T., Inc.
+                    M.E.R.I.T., Inc. provides services in construction planning and management. The company, a Federal Contractor, is specialized in construction, safety and security. S&A Technologies acts as a Tier 2 provider of software solutions for M.E.R.I.T., Inc.
                 </p>
             </div>
             <div class="col-sm-8">

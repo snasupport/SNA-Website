@@ -14,21 +14,15 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-    <header class="masthead" style="background-color:white">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-10 mx-auto">
-                    <div class="site-heading">
-                        <h4 style="color:black">SENSOR SIMULATOR</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
+     <header class="masthead" style="background-image: url('img/portfolio4.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">HAZMAT TRAINING SENSOR SIMULATOR</h1>
     </header>
+      <br/>
     <!-- Main Content -->
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-lg-4 col-sm-12">
+          
                 <h2>HAZMAT TRAINING</h2>
                 <br />
                 <p style="font-weight:bold"><span style="font-weight:bold">URL: </span><a href="http://sph.rutgers.edu" _target="blank"> http://sph.rutgers.edu</a></p>
@@ -44,50 +38,53 @@
     </div>
     <br />
     <div class="container">
-        <div class="row">
-            <div class="col-md-4 col-sm-12 career">
+        <div class="row" >
+            <div class="col-md-4 col-sm-12 career" style="padding-bottom: 5px;">
 
                 <h6>SITUATION</h6>
                 <p style="font-size:15px;">
-                    Rutgers School of Public Health (RSPH) Office of Public Health Practice (OPHP) asked Cell Podium to collaborate on a project to create virtual sensors for their standard Hazwoper class. Cell Podium applied for an SBIR grant at the National Institute of Environmental Health Sciences (NIEHS). The grant got awarded in 2016 with a Phase 1 grant and 2 years later with a phase II grant.
+                    Rutgers School of Public Health (RSPH) Office of Public Health Practice (OPHP) asked Cell Podium to collaborate on a project to create virtual sensors for their standard Hazwoper class. Cell Podium applied for an SBIR grant at the National Institute of Environmental Health Sciences (NIEHS). The grant was awarded to S&A Technologies in 2016 with a Phase One grant and again in 2018 with a Phase Two grant.
                 </p>
 
-                <h6>REQUIREMENTS</h6>
-                <p style="font-size:15px;">
-                    S&A Technologies was tasked to develop a sensor simulator based on Android and iOS. The product should be based on commercially available beacons.
-                    The cost for the schools should be kapt low.
-                </p>
+              
 
             </div>
-            <div class="col-md-4 col-sm-12 career">
+            <div class="col-md-4 col-sm-12 career" style="padding-bottom: 5px;">
 
 
                 <h6>CHALLENGES</h6>
                 <p style="font-size:15px;">
-                    S&A Technologies faced a set of challenges that needed to be overcome: the new system had to be based on already existing and available technologies. A wide variety of expertise was needed, including networking, Android development, Web Server development and subject matter expertise.
+                    Several challenges were descernable right from the start. Firstly, the new system must be both available on demand, as well as scalable (i.e. producible in large numbers). Therefore it was needed that the system had to be based on already existing and available technologies. Secondly, an application like this required a variety of expertise ranging from networking design, Android and iOS development, Web Server development, and of course expertise on HAZMAT training itself. 
                 </p>
 
             </div>
-            <div class="col-md-4 col-sm-12 career">
+            <div class="col-md-4 col-sm-12 career" style="padding-bottom: 5px;">
 
 
                 <h6>ACTIONS</h6>
                 <p style="font-size:15px;">
-                    S&A Technologies surveyed currently available beacon products and settled on an inexpensive Bluetooth beacon. We developed a rapid prototype on the web with a graphical interface of a simulated spill site; we also created an Android app which was able to communicate with beacons and database at the same time. Initial field tests were successful from the beginning on.
+                    S&A Technologies surveyed currently available beacon products and settled on an inexpensive Bluetooth beacon. We developed a rapid prototype on the web with a graphical interface of a simulated spill site, and created an Android application which was able to communicate with beacons and a database at the same time. Immediate success was found during the initial field tests.
                 </p>
             </div>
         </div>
         <br />
-    </div>
-    <div class="container">
-        <div class="row">
-            <h3 style="font-weight:bolder">
-                Result: S&A Technologies has successfully delivered sensor application to various schools and applications. In 2019 the US Air Force decided to use the sensor simulator in their training as well and bought the service from Cell Podium.
-            </h3>
+  
+    <div class="row">
+        <div class="col-md-4 col-sm-12 career" style="padding-top: 0px;">
+          <h6>REQUIREMENTS</h6>
+                <p style="font-size:15px;">
+                    S&A Technologies was tasked with developing an application to simulate a hazard sensor for both the iOS and Android platforms. To keep the application as accurate as possible, its sensors were designed based off of existing commercially available hazard sensors. For this product to be a viable hazard training tool for the many hazard training schools, the cost of the application including its beacons must be kept low. 
+                </p>
         </div>
-    </div>
+        <div class="col-md-4 col-sm-12 career" style="padding-top: 0px;">
+             <h6>RESULTS</h6>
+                <p style="font-size:15px;">
+                    S&A Technologies successfully delivered the sensor simulator application to the Rutgers School of Public health, along with various related schools and training programs. In 2019 the US Air Force showed interest in using the sensor simulator in their training, as well as requesting to enhance the functionalities that the application provides.
+                </P>
+        </div>
     <br />
-
+    </div>    
+</div>
     <!-- #include file = "include_footer.html" -->
 </body>
 </html>

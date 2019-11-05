@@ -19,51 +19,54 @@
     </header>
       <!-- Main Content -->
      <div class="container">
+     </br>
          <div class="row">
              <div class="col-md-4 col-lg-4 col-sm-12 case">
                  <div style="text-align:center">
-                     <h3>Case Study #1</h3>
-                     <a style="color:white;padding:30px;" href="sociavi.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">View Case Study</button></a>
-
-                     <br />
-                     <br />
-
-                     <img src="img/sociavi.png" />
-                     <br />
+                    <img src="img/sociavi.png" />
                  </div>
-                 <p><span style="font-weight:bold">URL: </span><a href="http://www.sociavi.com" _target="blank"> www.sociavi.com</a></p>
-                 <p><span style="font-weight:bold">Technology: </span> Android, iOS, Java, C</p>
-                 <p><span style="font-weight:bold">Contact: </span> (732) 822 - 2785</p>
-                 <p><span style="font-weight:bold">Email: </span><a href="mailto:pmuller@sociavi.com" _target="blank">pmuller@sociavi.com</a></p>
              </div>
              <div class="col-md-4 col-lg-4 col-sm-12 case">
                  <div style="text-align:center">
-                     <h3>Case Study #2</h3>
-                     <a style="color:white;padding:30px;" href="hazmat.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">View Case Study</button></a>
-                     <br />
-                     <br />
-
                      <h3>HAZMAT TRAINING SENSOR SIMULATOR</h3>
-                    <br />
                  </div>
-                 
-                 <p><span>URL: </span><a href="http://sph.rutgers.edu" _target="blank"> http://sph.rutgers.edu</a></p>
-                 <p><span>Technology: </span> Android, AngularJS</p>
-                 <p><span>Contact: </span> (973) 733 - 2225</p>
-                 <p><span>Email: </span><a href="mailto:info@sna-tech.com" _target="blank"> info@sna-tech.com</a></p>
-
              </div>
              <div class="col-md-4 col-lg-4 col-sm-12 case">
                  <div style="text-align:center">
-                     <h3>Case Study #3</h3>
-                     <a style="color:white;padding:30px;" href="coldwell.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">View Case Study</button></a>
-                     <br />
-                     <br />
-                
+
                      <img src="img/coldwellbanker.png" />
-                 </div>
-                 
+                </div>
              </div>
+        </div>
+        <div  class="row">
+            <div style="align-content:center" class="col-md-4 col-lg-4 col-sm-12 case">
+                    <p><span style="font-weight:bold">URL: </span><a href="http://www.sociavi.com" _target="blank"> www.sociavi.com</a></p>
+                    <p><span style="font-weight:bold">Technology: </span> Android, iOS, Java, C</p>
+                    <p><span style="font-weight:bold">Contact: </span> (732) 822 - 2785</p>
+                    <p><span style="font-weight:bold">Email: </span><a href="mailto:pmuller@sociavi.com" _target="blank">pmuller@sociavi.com</a></p>
+                 </div>
+                 <div style="align-content:center" class="col-md-4 col-lg-4 col-sm-12 case">
+                    <p><span>URL: </span><a href="http://sph.rutgers.edu" _target="blank"> http://sph.rutgers.edu</a></p>
+                    <p><span>Technology: </span> Android, AngularJS</p>
+                    <p><span>Contact: </span> (973) 733 - 2225</p>
+                    <p><span>Email: </span><a href="mailto:info@sna-tech.com" _target="blank"> info@sna-tech.com</a></p>
+                 </div>
+                 <div  style="align-content:center" class="col-md-4 col-lg-4 col-sm-12 case">
+                    <p><span>URL: </span><a href="www.coldwellbanker.com" _target="blank"> www.coldwellbanker.com</a></p>
+                    <p><span>Technology: </span> Video Production</p>
+                    <p><span>Email: </span><a href="mailto:customercare@coldwellbanker.com" _target="blank"> customercare@coldwellbanker.com</a></p>
+                 </div>
+             </div>
+             <div class="row">
+                 <div class="col-md-4 col-lg-4 col-sm-12 case">
+                    <a style="color:white;padding:30px;" href="sociavi.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">Sociavi Case Study</button></a>
+                 </div>
+                 <div class="col-md-4 col-lg-4 col-sm-12 case">
+                    <a style="color:white;padding:30px;" href="hazmat.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">Hazmat Case Study</button></a>
+                 </div>
+                 <div class="col-md-4 col-lg-4 col-sm-12 case">
+                    <a style="color:white;padding:30px;" href="coldwell.stm"><button style="border-radius:10px;" type="button" class="btn btn-dark">Coldwell Banker Case Study</button></a>
+                 </div>
              </div>
          <br />
      </div>
