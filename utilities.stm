@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="img/snalogo.png" />
+    <title>Utilities | S&A Technologies</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- #include file = "include_scripts.html" -->
+</head>
+<body>
+    <!-- #include file = "include_navigation.html" -->
+    <header class="masthead" style="background-image: url('img/portfolio2.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">UTILITIES</h1>
+    </header>
+    <!-- Main Content -->
+    <div class="container">
+        </br>
+        <h2>Excel Macro</h2>
+        <p>VBA (EXCEL Macros) is a great tool that can improve productivity. 
+        Excel comes with a full programming language (VBA) that can access databases, create word documents and much much more.</p>
+        <br /> 
+        <h4>Here is one example program "<a href="">Upload.XML</a>".</h4>
+        <img src="img/uploadMacro.png" alt="img" style="border:solid 1px gray;padding:10px"/>
+        <br /><br />
+        You want to upload a lot of data into a database, but it is a task that doesn't need to be done very often and you don't want to spent a lot of work on it.
+        <br />
+        One solution is to write a small VBA program that creates the commands to upload the data. 
+        Here are the steps:
+        <ul>
+            <li>Create a template SQL statement (rows 10 and 11)</li>
+            <li>Create lookup data for all possible entries (sheet lookup)</li>
+            <li>
+                Write a macro that does the following:
+            <ul>
+                <li>Loop over how many statements you want to create.</li>
+                <li>For each record replace the values with a random string. 
+                This can be done with a 3 line function (see the VBA code)</li>
+            </ul>
+            </li>
+        </ul>
+        Download the excel sheet and look at the VBA program.<br />
+        The link to the program is <a href="img/Upload.xlsm" style="color:blue;text-decoration:underline">here</a>.
+        <br />
+        Feel free to modify it yourself. 
+        <br /><br />
+        <h2>Other useful links the we use all the time</h2>
+        <ul>
+
+            <li><b>Speed:</b> Test the speed of the Internet <a href="https://fast.com/" target="_blank" style="color:blue;text-decoration:underline">here</a></li>
+            <li><b>Browser: </b>To find out what browser you are using click <a href="http://thismachine.info/" target="_blank" style="color:blue;text-decoration:underline">here</a> </li>
+            <li><b>IP Address: </b>To find out your IP address click <a href="https://whatismyipaddress.com/" target="_blank" style="color:blue;text-decoration:underline">here</a> </li>
+        </ul>
+        
+        
+    </div>
+    <!-- #include file = "include_footer.html" -->
+</body>
+</html>
+
+

@@ -11,13 +11,12 @@
 </head>
 <body>
     <!-- #include file = "include_navigation.html" -->
-    <header class="masthead" style="background-color:mediumblue">
-        <div class="container" style="height:150px">
-            <h3 style="color:white;padding-top:100px;text-align:center;font-weight:bold">SOCIAVI</h3>
-        </div>
+    <header class="masthead" style="background-image: url('img/portfolio4.JPG');height:100px;margin-top:70px;">
+        <h1 style="text-align:center;color:white;padding-top:30px;">SOCIAVI</h1>
     </header>
-    <!-- Main Content -->
-    <div class="container" style="margin-top:50px">
+    </br>
+   <!-- Main Content -->
+    <div class="container">
         <div class="row">
             <div class="col-md-4 col-lg-4 col-sm-12">
                 <img src="img/sociavi.png" />
@@ -35,55 +34,61 @@
     </div>
     <br />
     <div class="container">
-        <div class="row">
-            <div class="col-md-4 col-sm-12 career">
+        <div class="row" >
+            <div class="col-md-4 col-sm-12 career" style="padding-bottom: 0px;">
 
                 <h6>SITUATION</h6>
                 <p style="font-size:15px;">
                     Sociavi’s owner came up with an idea for an automated communication system between elderly people in need and their caregivers and support. The S&A Technologies team developed the initial communication system allowing Sociavi to successfully sell it to both private clients and institutions. Soon it turned out that the new application and server needed an expansion and updated robust technologies.
                 </p>
+              
 
-                <h6>REQUIREMENTS</h6>
-                <p style="font-size:15px;">
-                    S&A Technologies was asked to move all software components to a more robust and scalable platform, and support this platform for the foreseeable future.
-                </p>
             </div>
-            <div class="col-md-4 col-sm-12 career">
+            <div class="col-md-4 col-sm-12 career" style="padding-bottom: 0px;">
 
 
                 <h6>CHALLENGES</h6>
                 <p style="font-size:15px;">S&A Technologies was confronted with a set of challenges:</p>
                 <ul>
-                    <li>The existing administrative and login features were intermittently failing.</li>
-                    <li>Any implementation of new technologies would break the existing application.</li>
-                    <li>Both design and development had to be financed through current sales.</li>
+                    <li style="font-size:15px;">The existing administrative and login features were intermittently failing.</li>
+                    <li style="font-size:15px;">Any implementation of new technologies would break the existing application.</li>
+                    <li style="font-size:15px;">Both design and development had to be financed through current sales.</li>
                 </ul>
+
             </div>
-            <div class="col-md-4 col-sm-12 career">
+            <div class="col-md-4 col-sm-12 career" style="padding-bottom: 0px;">
+
 
                 <h6>ACTIONS</h6>
-                <p style="font-size:15px;">
+               <p style="font-size:15px;">
                     We started our project by getting an overview of the client’s business model and finding out the company’s business goals. From there, a series of tasks was divided into the following short, medium and long term categories:
 
                 </p>
                 <ul>
-                    <li>Short Term: Expand functionality and support the running application</li>
-                    <li>Medium Term: Move all components to a more robust and supportable platform</li>
-                    <li>•	Long Term: Propose the right technologies and development steps towards an eventually successful business</li>
+                    <li style="font-size:15px;">Short Term: Expand functionality and support the running application</li>
+                    <li style="font-size:15px;">Medium Term: Move all components to a more robust and supportable platform</li>
+                    <li style="font-size:15px;">Long Term: Propose the right technologies and development steps towards an eventually successful business</li>
                 </ul>
             </div>
         </div>
         <br />
-    </div>
-    <div class="container">
-        <div class="row">
-            <h3 style="font-weight:bolder">
-                Result: The application is running to the fullest satisfaction of “Sociavi”. Expansions and new features have perfectly been implemented. The company can stay focused on its sales and marketing.
-            </h3>
+  
+    <div class="row">
+        <div class="col-md-4 col-sm-12 career" style="padding-top: 0px;">
+          <h6>REQUIREMENTS</h6>
+                <p style="font-size:15px;">
+                    S&A Technologies was asked to move all software components to a more robust and scalable platform, and support this platform for the foreseeable future.
+                </p>
         </div>
-    </div>
+        <div class="col-md-4 col-sm-12 career" style="padding-top: 0px;">
+             <h6>RESULTS</h6>
+             <p style="font-size:15px;">
+                The application is running to the fullest satisfaction of “Sociavi”. Expansions and new features have perfectly been implemented. The company can stay focused on its sales and marketing.              
+             </P>
+        </div>
     <br />
-
+    </div>    
+</div>
     <!-- #include file = "include_footer.html" -->
 </body>
 </html>
